@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">namMysuruData</string>
+
+    <!--Navigation Drawer Items-->
+    <string name="open_navigation_Drawer">Side Menu Opened</string>
+    <string name="close_navigation_Drawer">Side Menu Closed</string>
+</resources>
