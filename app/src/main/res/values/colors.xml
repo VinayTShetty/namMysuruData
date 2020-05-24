@@ -3,4 +3,16 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+
+    <!--Dummy Colors for All Fragmetns.-->
+    <color name="fragment_General_news">#00f041</color>
+    <color name="fragment_nam_mysuru_data">#8400f0</color>
+    <color name="fragment_PDF">#f70000</color>
+    <color name="fragment_ShareMarket">#5dabc7</color>
+    <color name="fragment_Sports">#b500f7</color>
+    <color name="fragment_weather">#ffdd00</color>
+    <color name="fragment_youtubeChannels">#77ff00</color>
+
 </resources>
